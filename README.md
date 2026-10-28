@@ -52,4 +52,3 @@ The code performs the following steps:
 4. **Analyze high-rate altimetry:** Extract and analyze coincident ADB observations to assess whether the storm surge events are detectable in the altimetry.
 5. **Validate against tide gauges:** Compare the altimetry results with the corresponding tide gauge storm surge observations.
 6. **Validate against GTSM:** Further compare with GTSM surge residuals.
-7. 
